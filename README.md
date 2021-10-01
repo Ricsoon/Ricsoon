@@ -7,8 +7,8 @@ desenvolvimento de API's utilizando a biblioteca Flask, mas meu atual foco e pri
 <h2 align="left"> Status: </h2>
 <div align="center">
   <a href="https://github.com/ricsoon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricsoon&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricsoon&layout=compact&langs_count=7&theme=dark"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=ricsoon&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricsoon&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <p>
