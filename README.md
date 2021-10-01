@@ -47,7 +47,6 @@ desenvolvimento de API's utilizando a biblioteca Flask, mas meu atual foco e pri
     </a>
   <a href="mailto:ricardo.vinidev@gmail.com">
         <img
-            
             alt="Ricardo Vinícius (Gmail)" 
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
