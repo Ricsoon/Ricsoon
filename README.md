@@ -24,11 +24,15 @@ desenvolvimento de API's utilizando a biblioteca Flask, mas meu atual foco e pri
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
+<p>
+    <h2 align="left"> Social: </h2>
+</p>
+
 <div>
    <a href="https://www.linkedin.com/in/ricardo-vinícius-7bb2011b5/">
         <img 
             alt="Ricardo Vinícius" 
-            src="https://img.shields.io/badge/-Dolglas%20Mesquita-%230077b5?style=flat-square&logo=linkedin">
+            src="https://img.shields.io/badge/-Ricardo%20Vinícius-%230077b5?style=flat-square&logo=linkedin">
     </a>
     <a href="https://twitter.com/Ricsooon">
         <img 
