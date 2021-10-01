@@ -1,4 +1,7 @@
 ### Olá, meu nome é Ricardo Vinícius, conhecido também como Ricson!! 
+<p align='left' color="grey" font-size="20px"> Possuo graduação em Sistemas de Informação, onde destino todo meu conhecimento e vontade no desenvolvimento Back-End.
+Possuo conhecimento prévio sobre tecnologias voltada a programação Web, sendo elas HTML, Javascript, CSS. Também possuo conhecimentos sobre Python, exclusivamente no
+desenvolvimento de API's utilizando a biblioteca Flask, mas meu atual foco e principal, é a linguagem JAVA.</p>
 
 ##
 
