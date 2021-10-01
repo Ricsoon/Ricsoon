@@ -41,7 +41,6 @@ desenvolvimento de API's utilizando a biblioteca Flask, mas meu atual foco e pri
     </a>
     <a href="https://www.instagram.com/ricson.dev/">
         <img
-            width="84"
             alt="Ricardo Vinícius (Instagram)" 
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
