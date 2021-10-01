@@ -32,7 +32,7 @@ desenvolvimento de API's utilizando a biblioteca Flask, mas meu atual foco e pri
    <a href="https://www.linkedin.com/in/ricardo-vinícius-7bb2011b5/">
         <img 
             alt="Ricardo Vinícius" 
-            src="https://img.shields.io/badge/-Ricardo%20Vinícius-%230077b5?style=flat-square&logo=linkedin">
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://twitter.com/Ricsooon">
         <img 
