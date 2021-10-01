@@ -17,10 +17,36 @@ desenvolvimento de API's utilizando a biblioteca Flask, mas meu atual foco e pri
   
   <div style="display: inline_block"><br>
   <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="FLASK" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img align="center" alt="SPRING" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img align="center" alt="FLASK" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
+
+<div>
+   <a href="https://www.linkedin.com/in/ricardo-vinícius-7bb2011b5/">
+        <img 
+            alt="Ricardo Vinícius" 
+            src="https://img.shields.io/badge/-Dolglas%20Mesquita-%230077b5?style=flat-square&logo=linkedin">
+    </a>
+    <a href="https://twitter.com/Ricsooon">
+        <img 
+            alt="Ricardo Vinícius (Twitter pessoal)" 
+            src="https://img.shields.io/twitter/follow/dolglasmesquita?label=Seguir&style=social">
+    </a>
+    <a href="https://www.instagram.com/ricson.dev/">
+        <img
+            width="84"
+            alt="Ricardo Vinícius (Instagram)" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+  <a href="mailto:ricardo.vinidev@gmail.com">
+        <img
+            width="84"
+            alt="Ricardo Vinícius (Gmail)" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
 </div>
 
 
