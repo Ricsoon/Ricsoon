@@ -56,7 +56,7 @@ desenvolvimento de API's utilizando a biblioteca Flask, mas meu atual foco e pri
 </p>
 
 - Músico 🎸
-- Fanático por F1 🏎
+- Fanático por Fórmula 1 🏎
 - Amante dos esportes ⚽️🏀🏐
 - Louco por games 🎮
 
