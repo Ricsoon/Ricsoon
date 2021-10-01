@@ -7,8 +7,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricsoon&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricsoon&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-  ##
 
 <p>
     <h2 align="left"> Skills: </h2>
