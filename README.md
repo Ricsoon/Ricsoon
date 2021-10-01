@@ -51,6 +51,15 @@ desenvolvimento de API's utilizando a biblioteca Flask, mas meu atual foco e pri
     </a>
 </div>
 
+<p>
+    <h2 align="left"> Personal: </h2>
+</p>
+
+- Músico 🎸
+- Fanático por F1 🏎
+- Amante dos esportes ⚽️🏀🏐
+- Louco por games 🎮
+
 
 <!--
 **Ricsoon/Ricsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
