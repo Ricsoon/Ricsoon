@@ -1,7 +1,7 @@
 ### Olá, me chamo Ricardo e bem-vindo(a) ao meu GitHub!! :octocat:
 <p align='left' color="grey" font-size="20px"> Possuo graduação em Sistemas de Informação, onde destino todo meu conhecimento e vontade no desenvolvimento Back-End.
 Possuo conhecimento prévio sobre tecnologias voltada a programação Web, sendo elas HTML, Javascript, CSS. Também possuo conhecimentos sobre Python, exclusivamente no
-desenvolvimento de API's utilizando a biblioteca Flask, mas meu atual foco e principal, é a linguagem JAVA.</p>
+desenvolvimento de API's utilizando a biblioteca Flask, mas meu foco principal é no desenvolvimento Back-End, utilizando as linguagem Java, Python e Kotlin.</p>
 
 
 <h2 align="left"> Status: </h2>
